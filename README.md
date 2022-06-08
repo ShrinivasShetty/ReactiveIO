@@ -31,4 +31,6 @@ https://github.com/ShrinivasShetty/ReactiveIO/blob/main/vertex-non-blocking-api/
  #### Insted of calling IO for each api request, Any way to make this done in batch. Without impacting the end user.
      ####  overall Network transaction time will get reduced.
      ####  good impact to scalability can be achived
-
+     
+    
+![](vertex-non-blocking-api/diagram/Screenshot 2022-06-08 at 4.35.33 PM.png)
