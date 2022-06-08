@@ -10,7 +10,8 @@ https://github.com/ShrinivasShetty/ReactiveIO/tree/main/vertex-non-blocking-api/
 
 # High Performance Inter-Thread Messaging Library:
 https://github.com/ShrinivasShetty/ReactiveIO/tree/main/vertex-non-blocking-api/src/main/kotlin/com/example/highthroughput
-More Info: https://lmax-exchange.github.io/disruptor/disruptor.html
+
+**More Info**: https://lmax-exchange.github.io/disruptor/disruptor.html
 
 
 Integration of Reactive Db call and Kotling flow.
