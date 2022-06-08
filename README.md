@@ -33,4 +33,4 @@ https://github.com/ShrinivasShetty/ReactiveIO/blob/main/vertex-non-blocking-api/
      ####  good impact to scalability can be achived
      
     
-![](vertex-non-blocking-api/diagram/Screenshot 2022-06-08 at 4.35.33 PM.png)
+![](vertex-non-blocking-api/diagram/Screenshot2022-06-08 at 4.35.33 PM.png)
