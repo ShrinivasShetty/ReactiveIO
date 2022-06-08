@@ -23,7 +23,7 @@ Making mongo IO call without blocking the caller thread.
 https://github.com/ShrinivasShetty/ReactiveIO/blob/main/vertex-non-blocking-api/src/main/kotlin/com/example/ReactiveMongoRepo.kt
 
 # Api batch update:
-Network transaction time:
+**Network transaction time**
  IO call ecexution time includes network call. i,e time to reach request from web system to IO system.
  Api TPS will also consider Network transaction time. 
  Insted of calling IO for each request, Any way to make this done in batch. Without impacting the end user.
