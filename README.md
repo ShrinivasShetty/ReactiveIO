@@ -5,7 +5,7 @@ This design approch will address this problem
  
 https://github.com/ShrinivasShetty/ReactiveIO/tree/main/vertex-non-blocking-api/diagram
 
-![](/diagram/non-blocking.png)
+![](diagram/non-blocking.png)
 
 **More Info**: https://vertx.io/docs/vertx-web/java/
 
