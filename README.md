@@ -26,5 +26,9 @@ https://github.com/ShrinivasShetty/ReactiveIO/blob/main/vertex-non-blocking-api/
 **Network transaction time**:
  IO call ecexution time includes network call. i,e time to reach request from web system to IO system.
  Api TPS will also consider Network transaction time. 
- #### Insted of calling IO for each request, Any way to make this done in batch. Without impacting the end user.
+ 
+ 
+ #### Insted of calling IO for each api request, Any way to make this done in batch. Without impacting the end user.
+     ####  overall Network transaction time will get reduced.
+     ####  good impact to scalability can be achived
 
