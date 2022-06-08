@@ -2,8 +2,6 @@
 Desigined api purely on callBack approche. 
 Blocking api will impact the scalability of the application. 
 This design approch will address this problem
- 
-https://github.com/ShrinivasShetty/ReactiveIO/tree/main/vertex-non-blocking-api/diagram
 
 ![](vertex-non-blocking-api/diagram/non-blocking.png)
 
