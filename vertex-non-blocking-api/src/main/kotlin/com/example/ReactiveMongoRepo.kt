@@ -15,9 +15,9 @@ import org.bson.Document
 
 class ReactiveMongoRepo {
     private val credential = MongoCredential.createScramSha1Credential(
-        "coms",
-        "coms",
-        "wTor1mzDFxfd^0u".toCharArray())
+        "test",
+        "test",
+        "test^0u".toCharArray())
     private val MongoClient: MongoClient = MongoClients.create(
         MongoClientSettings.builder()
             .credential(credential)
