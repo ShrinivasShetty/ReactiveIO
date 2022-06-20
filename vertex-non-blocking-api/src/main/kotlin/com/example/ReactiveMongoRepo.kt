@@ -22,7 +22,7 @@ class ReactiveMongoRepo {
         MongoClientSettings.builder()
             .credential(credential)
             .applyToClusterSettings{
-                builder -> builder.hosts(listOf(ServerAddress("mgelx20192.hq.target.com", 27017)))}
+                builder -> builder.hosts(listOf(ServerAddress("localhost", 27017)))}
             .build()
     )
 
